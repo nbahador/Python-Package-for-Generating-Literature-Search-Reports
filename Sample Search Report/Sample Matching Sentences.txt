@@ -1,0 +1,87 @@
+Search Term: PICO
+==================================================
+PMID: 39437276
+Title: Benchmarking Large Language Models in Evidence-Based Medicine.
+URL: https://www.ncbi.nlm.nih.gov/pubmed/39437276
+Matching Sentences:
+ - This study explores integrating LLMs into the key stages in EBM, evaluating their ability across evidence retrieval (PICO extraction, biomedical question answering), synthesis (summarizing randomized controlled trials), and dissemination (medical text simplification).
+ - Promoting strategies such as knowledge-guided prompting proved highly effective (e.g., improving the performance of GPT-4 by 13.10% over zero-shot in PICO extraction).
+--------------------------------------------------
+PMID: 38471120
+Title: A span-based model for extracting overlapping PICO entities from randomized controlled trial publications.
+URL: https://www.ncbi.nlm.nih.gov/pubmed/38471120
+Matching Sentences:
+ - Extracting PICO (Populations, Interventions, Comparison, and Outcomes) entities is fundamental to evidence retrieval.
+ - We present a novel method, PICOX, to extract overlapping PICO entities.
+ - Then, it uses a multi-label classifier to assign one or more PICO labels to a span candidate.
+ - PICOX was evaluated using 1 of the best-performing baselines, EBM-NLP, and 3 more datasets, ie, PICO-Corpus and randomized controlled trial publications on Alzheimer's Disease (AD) or COVID-19, using entity-level precision, recall, and F1 scores.
+ - On the PICO-Corpus, PICOX obtained higher recall and F1 scores than the baseline and improved the micro recall score from 56.66 to 67.33.
+--------------------------------------------------
+PMID: 38455840
+Title: Retrieval augmented scientific claim verification.
+URL: https://www.ncbi.nlm.nih.gov/pubmed/38455840
+Matching Sentences:
+ - We developed CliVER, an end-to-end scientific <b>Cl</b>a<b>i</b>m <b>VER</b>ification system that leverages retrieval-augmented techniques to automatically retrieve relevant clinical trial abstracts, extract pertinent sentences, and use the PICO framework to support or refute a scientific claim.
+ - We then constructed CoVERt, a new <b>CO</b>VID <b>VER</b>ifica<b>t</b>ion dataset comprising 15 PICO-encoded drug claims accompanied by 96 manually selected and labeled clinical trial abstracts that either support or refute each claim.
+--------------------------------------------------
+PMID: 32310137
+Title: Translating Clinical Questions by Physicians Into Searchable Queries: Analytical Survey Study.
+URL: https://www.ncbi.nlm.nih.gov/pubmed/32310137
+Matching Sentences:
+ - Our primary objective was to examine how clinicians formulate their queries on a federated search engine, according to the population, intervention, comparison, and outcome (PICO) framework.
+ - Recording account log-ins and usage, we extracted all 1085 queries performed during a 6-month period and classified each search term according to the PICO framework.
+--------------------------------------------------
+PMID: 27935993
+Title: Development of a Search Strategy for an Evidence Based Retrieval Service.
+URL: https://www.ncbi.nlm.nih.gov/pubmed/27935993
+Matching Sentences:
+ - We compared search results from a PICO (patients, intervention, comparison, outcome) framework for questions using different combinations of PICO elements.
+ - Answers to all 6 questions using the PICO framework were found.
+ - A higher number of systematic reviews were obtained using a 2 PICO element search compared to a 4 element search.
+--------------------------------------------------
+
+Percentage of articles containing 'PICO': 3.76%
+
+
+Search Term: Flesch-Kincaid
+==================================================
+PMID: 38488217
+Title: From technical to understandable: Artificial Intelligence Large Language Models improve the readability of knee radiology reports.
+URL: https://www.ncbi.nlm.nih.gov/pubmed/38488217
+Matching Sentences:
+ - The Flesch-Kincaid reading level (FKRL) score, Flesch reading ease (FRE) score and report length were calculated for the original radiology report and the AI-LLM generated report.
+--------------------------------------------------
+PMID: 39138809
+Title: Decoding Radiology Reports: Artificial Intelligence-Large Language Models Can Improve the Readability of Hand and Wrist Orthopedic Radiology Reports.
+URL: https://www.ncbi.nlm.nih.gov/pubmed/39138809
+Matching Sentences:
+ - The following prompt command was inserted into the AI-LLM: "Explain this radiology report to a patient in layman's terms in the second person: [Report Text]." The report length, Flesch reading ease score (FRES), and Flesch-Kincaid reading level (FKRL) were calculated for the original radiology report and the AI-LLM-generated report.
+--------------------------------------------------
+
+Percentage of articles containing 'Flesch-Kincaid': 1.50%
+
+
+Search Term: Active Learning
+==================================================
+PMID: 39341010
+Title: Enhancing systematic reviews: An in-depth analysis on the impact of active learning parameter combinations for biomedical abstract screening.
+URL: https://www.ncbi.nlm.nih.gov/pubmed/39341010
+Matching Sentences:
+ - Active learning (AL) has emerged as a preferred method among these AI techniques, allowing interactive learning through human input.
+--------------------------------------------------
+
+Percentage of articles containing 'Active Learning': 0.75%
+
+
+Search Term: Perplexity
+==================================================
+PMID: 39922126
+Title: Generative AI chatbots for reliable cancer information: Evaluating web-search, multilingual, and reference capabilities of emerging large language models.
+URL: https://www.ncbi.nlm.nih.gov/pubmed/39922126
+Matching Sentences:
+ - This perspective evaluates seven publicly accessible LLMs-ChatGPT, Co-Pilot, Gemini, MetaAI, Claude, Grok, Perplexity-on three simple cancer-related queries across eight languages (336 responses: English, French, Chinese, Thai, Hindi, Nepali, Vietnamese, and Arabic).
+--------------------------------------------------
+
+Percentage of articles containing 'Perplexity': 0.75%
+
+
